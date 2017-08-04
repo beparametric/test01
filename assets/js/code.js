@@ -3,7 +3,7 @@
     ['innovative', 'smart', 'ousado', 'curious', 'unique', '<strong>parametric</strong>'],
     ['creative', 'poetic', 'simple', 'complex', 'selvagem', '<strong>parametric</strong>'],
     ['different', 'bacana', 'cool', 'flexible', 'more', '<strong>parametric</strong>'],
-    ['all', 'organized', 'chaotic', 'full', '@#$%&*!', '<strong>parametric</strong>'],
+    ['all', 'organized', 'chaotic', 'full', '@#!%*$', '<strong>parametric</strong>'],
   ];
 
   randomIndex = Math.floor(Math.random()*(4));
