@@ -10,10 +10,10 @@
 
   var typedTitle = new Typed('.title__typing', {
    strings: combinations[randomIndex],
-   startDelay: 100,
+   startDelay: 500,
    backDelay: 500,
-   typeSpeed: 60,
-   backSpeed: 0,
+   typeSpeed: 90,
+   backSpeed: 40,
    smartBackspace: true,
    loop: false,
    showCursor: false
