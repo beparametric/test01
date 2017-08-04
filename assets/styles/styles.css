@@ -1,3 +1,11 @@
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
 .container {
   display: flex;
   justify-content: center;
@@ -13,7 +21,7 @@
 }
 
 .title {
-	font-family: sans-serif;
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 	font-size: 5rem;
   color: #fff;
   margin-bottom: 20px;
@@ -24,10 +32,10 @@
 }
 
 .subtitle {
-  font-family: sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.5rem;
   color: rgba(211, 211, 211, 0.7);
-  font-weight: 100;
+  font-weight: 300;
 }
 
 /* Smartphones (portrait) ----------- */
